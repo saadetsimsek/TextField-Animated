@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		6A5BCF672CD3A6F300857606 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6A5BCF482CD3A6F100857606 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6A5BCF4F2CD3A6F100857606;
+			remoteInfo = TextfieldAnimated;
+		};
+		6A5BCF712CD3A6F300857606 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6A5BCF482CD3A6F100857606 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6A5BCF4F2CD3A6F100857606;
+			remoteInfo = TextfieldAnimated;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6A5BCF502CD3A6F100857606 /* TextfieldAnimated.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextfieldAnimated.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A5BCF662CD3A6F300857606 /* TextfieldAnimatedTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextfieldAnimatedTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A5BCF702CD3A6F300857606 /* TextfieldAnimatedUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextfieldAnimatedUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		6A5BCF782CD3A6F300857606 /* Exceptions for "TextfieldAnimated" folder in "TextfieldAnimated" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 6A5BCF4F2CD3A6F100857606 /* TextfieldAnimated */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		6A5BCF522CD3A6F100857606 /* TextfieldAnimated */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				6A5BCF782CD3A6F300857606 /* Exceptions for "TextfieldAnimated" folder in "TextfieldAnimated" target */,
+			);
+			path = TextfieldAnimated;
+			sourceTree = "<group>";
+		};
+		6A5BCF692CD3A6F300857606 /* TextfieldAnimatedTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TextfieldAnimatedTests;
+			sourceTree = "<group>";
+		};
+		6A5BCF732CD3A6F300857606 /* TextfieldAnimatedUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TextfieldAnimatedUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6A5BCF4D2CD3A6F100857606 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A5BCF632CD3A6F300857606 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A5BCF6D2CD3A6F300857606 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6A5BCF472CD3A6F100857606 = {
+			isa = PBXGroup;
+			children = (
+				6A5BCF522CD3A6F100857606 /* TextfieldAnimated */,
+				6A5BCF692CD3A6F300857606 /* TextfieldAnimatedTests */,
+				6A5BCF732CD3A6F300857606 /* TextfieldAnimatedUITests */,
+				6A5BCF512CD3A6F100857606 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6A5BCF512CD3A6F100857606 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6A5BCF502CD3A6F100857606 /* TextfieldAnimated.app */,
+				6A5BCF662CD3A6F300857606 /* TextfieldAnimatedTests.xctest */,
+				6A5BCF702CD3A6F300857606 /* TextfieldAnimatedUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6A5BCF4F2CD3A6F100857606 /* TextfieldAnimated */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6A5BCF792CD3A6F300857606 /* Build configuration list for PBXNativeTarget "TextfieldAnimated" */;
+			buildPhases = (
+				6A5BCF4C2CD3A6F100857606 /* Sources */,
+				6A5BCF4D2CD3A6F100857606 /* Frameworks */,
+				6A5BCF4E2CD3A6F100857606 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				6A5BCF522CD3A6F100857606 /* TextfieldAnimated */,
+			);
+			name = TextfieldAnimated;
+			packageProductDependencies = (
+			);
+			productName = TextfieldAnimated;
+			productReference = 6A5BCF502CD3A6F100857606 /* TextfieldAnimated.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6A5BCF652CD3A6F300857606 /* TextfieldAnimatedTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6A5BCF7E2CD3A6F300857606 /* Build configuration list for PBXNativeTarget "TextfieldAnimatedTests" */;
+			buildPhases = (
+				6A5BCF622CD3A6F300857606 /* Sources */,
+				6A5BCF632CD3A6F300857606 /* Frameworks */,
+				6A5BCF642CD3A6F300857606 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6A5BCF682CD3A6F300857606 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				6A5BCF692CD3A6F300857606 /* TextfieldAnimatedTests */,
+			);
+			name = TextfieldAnimatedTests;
+			packageProductDependencies = (
+			);
+			productName = TextfieldAnimatedTests;
+			productReference = 6A5BCF662CD3A6F300857606 /* TextfieldAnimatedTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6A5BCF6F2CD3A6F300857606 /* TextfieldAnimatedUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6A5BCF812CD3A6F300857606 /* Build configuration list for PBXNativeTarget "TextfieldAnimatedUITests" */;
+			buildPhases = (
+				6A5BCF6C2CD3A6F300857606 /* Sources */,
+				6A5BCF6D2CD3A6F300857606 /* Frameworks */,
+				6A5BCF6E2CD3A6F300857606 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6A5BCF722CD3A6F300857606 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				6A5BCF732CD3A6F300857606 /* TextfieldAnimatedUITests */,
+			);
+			name = TextfieldAnimatedUITests;
+			packageProductDependencies = (
+			);
+			productName = TextfieldAnimatedUITests;
+			productReference = 6A5BCF702CD3A6F300857606 /* TextfieldAnimatedUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6A5BCF482CD3A6F100857606 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					6A5BCF4F2CD3A6F100857606 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					6A5BCF652CD3A6F300857606 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 6A5BCF4F2CD3A6F100857606;
+					};
+					6A5BCF6F2CD3A6F300857606 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 6A5BCF4F2CD3A6F100857606;
+					};
+				};
+			};
+			buildConfigurationList = 6A5BCF4B2CD3A6F100857606 /* Build configuration list for PBXProject "TextfieldAnimated" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6A5BCF472CD3A6F100857606;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 6A5BCF512CD3A6F100857606 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6A5BCF4F2CD3A6F100857606 /* TextfieldAnimated */,
+				6A5BCF652CD3A6F300857606 /* TextfieldAnimatedTests */,
+				6A5BCF6F2CD3A6F300857606 /* TextfieldAnimatedUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6A5BCF4E2CD3A6F100857606 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A5BCF642CD3A6F300857606 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A5BCF6E2CD3A6F300857606 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6A5BCF4C2CD3A6F100857606 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A5BCF622CD3A6F300857606 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6A5BCF6C2CD3A6F300857606 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6A5BCF682CD3A6F300857606 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6A5BCF4F2CD3A6F100857606 /* TextfieldAnimated */;
+			targetProxy = 6A5BCF672CD3A6F300857606 /* PBXContainerItemProxy */;
+		};
+		6A5BCF722CD3A6F300857606 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6A5BCF4F2CD3A6F100857606 /* TextfieldAnimated */;
+			targetProxy = 6A5BCF712CD3A6F300857606 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6A5BCF7A2CD3A6F300857606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 244RFX44WS;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TextfieldAnimated/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Saadet.TextfieldAnimated;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6A5BCF7B2CD3A6F300857606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 244RFX44WS;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TextfieldAnimated/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Saadet.TextfieldAnimated;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		6A5BCF7C2CD3A6F300857606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6A5BCF7D2CD3A6F300857606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6A5BCF7F2CD3A6F300857606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 244RFX44WS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Saadet.TextfieldAnimatedTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TextfieldAnimated.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TextfieldAnimated";
+			};
+			name = Debug;
+		};
+		6A5BCF802CD3A6F300857606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 244RFX44WS;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Saadet.TextfieldAnimatedTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TextfieldAnimated.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TextfieldAnimated";
+			};
+			name = Release;
+		};
+		6A5BCF822CD3A6F300857606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 244RFX44WS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Saadet.TextfieldAnimatedUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TextfieldAnimated;
+			};
+			name = Debug;
+		};
+		6A5BCF832CD3A6F300857606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 244RFX44WS;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Saadet.TextfieldAnimatedUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TextfieldAnimated;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6A5BCF4B2CD3A6F100857606 /* Build configuration list for PBXProject "TextfieldAnimated" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5BCF7C2CD3A6F300857606 /* Debug */,
+				6A5BCF7D2CD3A6F300857606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6A5BCF792CD3A6F300857606 /* Build configuration list for PBXNativeTarget "TextfieldAnimated" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5BCF7A2CD3A6F300857606 /* Debug */,
+				6A5BCF7B2CD3A6F300857606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6A5BCF7E2CD3A6F300857606 /* Build configuration list for PBXNativeTarget "TextfieldAnimatedTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5BCF7F2CD3A6F300857606 /* Debug */,
+				6A5BCF802CD3A6F300857606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6A5BCF812CD3A6F300857606 /* Build configuration list for PBXNativeTarget "TextfieldAnimatedUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6A5BCF822CD3A6F300857606 /* Debug */,
+				6A5BCF832CD3A6F300857606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6A5BCF482CD3A6F100857606 /* Project object */;
+}
